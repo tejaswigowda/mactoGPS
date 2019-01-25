@@ -1,0 +1,35 @@
+{
+  "considerIp": "false",
+  "wifiAccessPoints": [
+{  
+    macAddress: "e4:f4:c6:08:20:03",
+    signalStrength: -87 },
+  { 
+    macAddress: "a0:63:91:8d:9f:9b",
+    signalStrength: -84 },
+  { 
+    macAddress: "94:10:3e:06:61:20",
+    signalStrength: -81 },
+  { 
+    macAddress: "30:b5:c2:fb:83:cc",
+    signalStrength: -69 },
+  { 
+    macAddress: "6c:b0:ce:d3:1c:14",
+    signalStrength: -91 },
+  { 
+    macAddress: "ee:20:e8:33:a7:f6",
+    signalStrength: -67 },
+  { 
+    macAddress: "22:ee:28:b5:8e:ac",
+    signalStrength: -55 },
+  { 
+    macAddress: "00:0e:8f:9c:0c:62",
+    signalStrength: -89 },
+  { 
+    macAddress: "30:b5:c2:fb:83:cd",
+    signalStrength: -57 },
+  { 
+    macAddress: "4e:66:41:8c:83:69",
+    signalStrength: -65 }
+  ]
+}
